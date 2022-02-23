@@ -1,0 +1,437 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy book, containing both experimental precepts and usual practices of fair and speedy writing with the necessaries thereunto belonging ... / by J. Johnson, Master of writing.</title>
+            <author>Johnson, J., Master of writing.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 2 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46903</idno>
+            <idno type="STC">Wing J776</idno>
+            <idno type="STC">ESTC R18064</idno>
+            <idno type="EEBO-CITATION">13165462</idno>
+            <idno type="OCLC">ocm 13165462</idno>
+            <idno type="VID">98230</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46903)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98230)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 423:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy book, containing both experimental precepts and usual practices of fair and speedy writing with the necessaries thereunto belonging ... / by J. Johnson, Master of writing.</title>
+                  <author>Johnson, J., Master of writing.</author>
+               </titleStmt>
+               <extent>8 p., 22 leaves of plates   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Brugis for Iohn Overton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Added engraved t.p. with title: A new coppie booke of the vsuall hands of England. London : Printed and sould by P. Stent, 1669.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Copybooks.</term>
+               <term>English language --  Alphabet and writing.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="alphabet_sampler">
+            <pb facs="tcp:98230:1"/>
+            <!-- PDF PAGE 48 -->
+            <pb n="15" facs="tcp:98230:1"/>
+            <!-- PDF PAGE 48 -->
+            <div type="part">
+               <p>A a b c d e f g h j k l m n o p q r s ſt t v u w x y z &amp;</p>
+               <p>Sapientia est rerum diuinarum et humanarum scientia cognitioque—  <abbr>que</abbr> 
+                  <abbr>cuiusque</abbr> rei causa sit: ex quo efficitur, ut diuina imitatur,—humana omnia inferiora <abbr>uirtut</abbr> ducat. Mater omnium bonarum artium est sapientia: a cuius amore, <abbr>Graec</abbr> uerbo Philosophai nome inuenit qua nihil a Dijs immortalibus uberius nihil florentius hominum generi datum est.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:98230:2"/>
+               <!-- PDF PAGE 49 -->
+               <pb n="16" facs="tcp:98230:2"/>
+               <!-- PDF PAGE 49 -->
+               <p>Quando praestitimus quod euenit feramus. Est etiam in nobis, vt &amp; aduersa quasj perpetua obli<g ref="char:EOLhyphen"/>uione obruamus &amp; secunda iucunde ac suauiter meminerimus. Vt secunda moderate tulimus, sic non solum aduersam sed funditus cuersam for<g ref="char:EOLhyphen"/>tunam patienter ferre debemus. Nihil est.</p>
+               <p>Heaven is the admired inſtrument of the Omnipotent, By the influence whereof He rules<g ref="char:punc">▪</g> ❀ and governes the  great maſse of this transitory, and corruptible World.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:98230:3"/>
+               <!-- PDF PAGE 50 -->
+               <pb n="17" facs="tcp:98230:3"/>
+               <!-- PDF PAGE 50 -->
+               <p>ABCDEFGHJKLM<lb/>
+NOPQRSTVWXYZ</p>
+               <p>
+                  <list>
+                     <label>1</label>
+                     <item>j</item>
+                     <label>2</label>
+                     <item>ij</item>
+                     <label>3</label>
+                     <item>iij</item>
+                     <label>4</label>
+                     <item>iiij</item>
+                     <label>5</label>
+                     <item>v</item>
+                     <label>6</label>
+                     <item>vj</item>
+                     <label>7</label>
+                     <item>vij</item>
+                     <label>8</label>
+                     <item>viij</item>
+                     <label>9</label>
+                     <item>ix</item>
+                     <label>10</label>
+                     <item>x</item>
+                     <label>11</label>
+                     <item>xj</item>
+                     <label>12</label>
+                     <item>xij</item>
+                     <label>13</label>
+                     <item>xiij</item>
+                     <label>14</label>
+                     <item>xiiij</item>
+                     <label>15</label>
+                     <item>xv</item>
+                     <label>16</label>
+                     <item>xvj</item>
+                     <label>17</label>
+                     <item>xvij</item>
+                     <label>18</label>
+                     <item>xviij</item>
+                     <label>19</label>
+                     <item>xix</item>
+                     <label>20</label>
+                     <item>xx</item>
+                     <label>30</label>
+                     <item>xxx</item>
+                     <label>40</label>
+                     <item>xl</item>
+                     <label>50</label>
+                     <item>l</item>
+                     <label>60</label>
+                     <item>xl</item>
+                     <label>70</label>
+                     <item>lxx</item>
+                     <label>80</label>
+                     <item>lxxx</item>
+                     <label>90</label>
+                     <item>xc</item>
+                     <label>100</label>
+                     <item>c</item>
+                     <label>200</label>
+                     <item>cc</item>
+                     <label>500</label>
+                     <item>m</item>
+                     <label>600</label>
+                     <item>dm</item>
+                     <label>1000</label>
+                     <item>m</item>
+                     <label>1500</label>
+                     <item>md</item>
+                  </list>
+               </p>
+               <p>A. a. b. c. d. d. e. e. f. g. f. g. h. i. h. ij. k. n. l. l. m. n. o. p. p. q. r. s. t. v. u. w. x. y. z. st.</p>
+               <q>
+                  <l>I am resolved to write faire,</l>
+                  <l>and to that end Jle have a care.</l>
+               </q>
+               <pb facs="tcp:98230:4"/>
+               <!-- PDF PAGE 51 -->
+            </div>
+            <div type="part">
+               <pb n="18" facs="tcp:98230:4"/>
+               <!-- PDF PAGE 51 -->
+               <p>A a b c d e f g h i k l m n o p q r ſ s t u v w x y z.</p>
+               <p>ABCDEFGHIKLMNOPQRSTVWXYZ</p>
+               <p>iij<hi rend="sup">d.</hi> ob. <abbr>q</abbr>, xxiij<hi rend="sup">d</hi>, xxij<hi rend="sup">d</hi>, iij<hi rend="sup">s</hi> ij<hi rend="sup">d</hi>, vj<hi rend="sup">s</hi> viij<hi rend="sup">d</hi>
+                  <lb/>
+xvij<hi rend="sup">s</hi> iiij<hi rend="sup">d</hi>, xxxij<hi rend="sup">s</hi> vj<hi rend="sup">d</hi>, xxx<hi rend="sup">s</hi> xj<hi rend="sup">d</hi>, xl<hi rend="sup">s</hi>, lviij<hi rend="sup">s</hi>
+                  <lb/>
+vj<hi rend="sup">l</hi> v<hi rend="sup">s</hi> iiij<hi rend="sup">d</hi> xx<hi rend="sup">l</hi> xiij<hi rend="sup">s</hi> ix<hi rend="sup">d</hi>, xix<hi rend="sup">l</hi> xvij<hi rend="sup">s</hi> xj<hi rend="sup">d</hi>
+                  <lb/>
+xxiij<hi rend="sup">l</hi> xiiij<hi rend="sup">s</hi> v<hi rend="sup">d</hi>, cxlv<hi rend="sup">l</hi> xij<hi rend="sup">s</hi>, cccxx<hi rend="sup">l</hi>
+                  <lb/>
+mdxx<hi rend="sup">l</hi>. mmcix<hi rend="sup">l</hi>.</p>
+               <q>Lord, teach me to number my dayes, that I may apply my heart unto true Wiſdome.</q>
+               <pb facs="tcp:98230:5"/>
+               <!-- PDF PAGE 52 -->
+               <p>
+                  <pb n="19" facs="tcp:98230:5"/>
+                  <!-- PDF PAGE 52 -->
+A. a. a. B. b. b. C. c. cc. D. d. d. E. e. e.</p>
+               <p>ff. f. f. G g. g. h. h. h. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. i. ij. k. k. k.</p>
+               <p>l. ll. l. m. m. m. N. n. n. O. o. oo. P. p. pp.</p>
+               <p>Q. q. q. r. r. r. S. S. ſ. s. t. t. rr. V. v. u.</p>
+               <p>W. W. W. X. X. X. y. y. y. z. z. z. &amp; &amp; &amp;c.</p>
+               <p>A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<hi rend="sup">••</hi> et  Cccj<hi rend="sup">mo</hi> mio Sig. <abbr>Proni</abbr> Oſs<hi rend="sup">mo</hi>
+                  <lb/>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>S Quo. Johano Johnsonij</p>
+               <pb facs="tcp:98230:6"/>
+               <!-- PDF PAGE 53 -->
+            </div>
+            <div type="part">
+               <pb n="20" facs="tcp:98230:6"/>
+               <!-- PDF PAGE 53 -->
+               <p>A. A. A. a. a. a. B. B. B. b. b. b. c. c. c. D. d. d. d.<lb/>
+D. D. d. d. d. E. E. E. e. e. e. ff. ff. ff. f. f. f<lb/>
+G. G. g. ff. f. h. h. h. h. J. J. J. ii. i. i. ij. k. k.<lb/>
+l. l. l. ll. m. m. m. m. <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. N. N. n <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <lb/>
+O. O. O. o. o. o. P. P. P. p. p. p. Q. Q. q q qr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <lb/>
+R R R r <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> r. S S S s ſ ſt T T t<lb/>
+T. tt. ſt. V. u. v. v. w. w. x. x. y. y. z. &amp;c<g ref="char:punc">▪</g>
+               </p>
+               <q>
+                  <l>They must be active, studious, temp'rate, wise.</l>
+                  <l>Who hope to make this curious Art their prize.</l>
+               </q>
+            </div>
+            <pb facs="tcp:98230:7"/>
+            <!-- PDF PAGE 54 -->
+            <div type="part">
+               <pb n="21" facs="tcp:98230:7"/>
+               <!-- PDF PAGE 54 -->
+               <list>
+                  <head>A New Alphabet by which Children may Learne to draw and Limne</head>
+                  <label>A</label>
+                  <item>
+                     <figure>
+                        <figDesc>human figures in shape of 'A'</figDesc>
+                     </figure>
+                  </item>
+                  <label>B</label>
+                  <item>
+                     <figure>
+                        <figDesc>human figures in shape of 'B'</figDesc>
+                     </figure>
+                  </item>
+                  <label>C</label>
+                  <item>
+                     <figure>
+                        <figDesc>human figure in shape of 'C'</figDesc>
+                     </figure>
+                  </item>
+                  <label>D</label>
+                  <item>
+                     <figure>
+                        <figDesc>human figures in shape of 'D'</figDesc>
+                     </figure>
+                  </item>
+                  <label>E</label>
+                  <item>
+                     <figure>
+                        <figDesc>human figures in shape of 'E'</figDesc>
+                     </figure>
+                  </item>
+                  <label>F</label>
+                  <item>
+                     <figure>
+                        <figDesc>human figure in shape of 'F'</figDesc>
+                     </figure>
+                  </item>
+                  <label>G</label>
+                  <item>
+                     <figure>
+                        <figDesc>human figures in shape of 'G'</figDesc>
+                     </figure>
+                  </item>
+                  <label>H</label>
+                  <item>
+                     <figure>
+                        <figDesc>human figures in shape of 'H'</figDesc>
+                     </figure>
+                  </item>
+                  <label>I</label>
+                  <item>
+                     <figure>
+                        <figDesc>human figure in shape of 'I'</figDesc>
+                     </figure>
+                  </item>
+                  <label>K</label>
+                  <item>
+                     <figure>
+                        <figDesc>human figure in shape of 'K'</figDesc>
+                     </figure>
+                  </item>
+                  <label>L</label>
+                  <item>
+                     <figure>
+                        <figDesc>human figures in shape of 'L'</figDesc>
+                     </figure>
+                  </item>
+                  <label>M</label>
+                  <item>
+                     <figure>
+                        <figDesc>human figure in shape of 'M'</figDesc>
+                     </figure>
+                  </item>
+                  <label>N</label>
+                  <item>
+                     <figure>
+                        <figDesc>human figures in shape of 'N'</figDesc>
+                     </figure>
+                  </item>
+                  <label>O</label>
+                  <item>
+                     <figure>
+                        <figDesc>human figures in shape of 'O'</figDesc>
+                     </figure>
+                  </item>
+                  <label>P</label>
+                  <item>
+                     <figure>
+                        <figDesc>human figure in shape of 'P'</figDesc>
+                     </figure>
+                  </item>
+                  <label>Q</label>
+                  <item>
+                     <figure>
+                        <figDesc>human figure in shape of 'Q'</figDesc>
+                     </figure>
+                  </item>
+                  <label>R</label>
+                  <item>
+                     <figure>
+                        <figDesc>human figure in shape of 'R'</figDesc>
+                     </figure>
+                  </item>
+                  <label>S</label>
+                  <item>
+                     <figure>
+                        <figDesc>human figure in shape of 'S'</figDesc>
+                     </figure>
+                  </item>
+                  <label>T</label>
+                  <item>
+                     <figure>
+                        <figDesc>human figure in shape of 'T'</figDesc>
+                     </figure>
+                  </item>
+                  <label>V</label>
+                  <item>
+                     <figure>
+                        <figDesc>human figure in shape of 'V'</figDesc>
+                     </figure>
+                  </item>
+                  <label>W</label>
+                  <item>
+                     <figure>
+                        <figDesc>human figure in shape of 'W'</figDesc>
+                     </figure>
+                  </item>
+                  <label>X</label>
+                  <item>
+                     <figure>
+                        <figDesc>human figure in shape of 'X'</figDesc>
+                     </figure>
+                  </item>
+                  <label>Y</label>
+                  <item>
+                     <figure>
+                        <figDesc>human figure in shape of 'Y'</figDesc>
+                     </figure>
+                  </item>
+                  <label>Z</label>
+                  <item>
+                     <figure>
+                        <figDesc>human figure in shape of 'Z'</figDesc>
+                     </figure>
+                  </item>
+               </list>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
